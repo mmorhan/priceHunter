@@ -1,0 +1,5 @@
+To run Program just run TelegraBot pyhton file.
+Homework.py file contains observer and singleton pattern classes.
+CalculateRSI and CalculateVolume gets price from brokerage and calculates desired input.
+Botconfig stores API KEY for telegram Bot : don't share it hocam :D
+There's requirements file that stores dependendent liblaries.
