@@ -1,0 +1,10 @@
+pandas
+ta
+schedule
+datetime
+config
+pprint
+json
+warnings
+python-telegram-bot
+ccxt
